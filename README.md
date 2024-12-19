@@ -84,8 +84,6 @@ Here is how the output looks like:
 ![Sample Output 1](Results/Result1.jpg)
 ![Sample Output 2](Results/Result2.jpg)
 
-Below are the trajectories of each ball in the video. 
-
 
 ## How It Works
 
